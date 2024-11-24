@@ -14,7 +14,7 @@
 ### Мой инструментарий
 - Написание текстов: Confluence, Notion, Google Docs/Sheets/Slides, Microsoft Word/Excel, Visual Studio Code
 - Трекинг задач: Jira
-- Создание визуальной документации, схем, мокапов: Miro, Figma, draw.io, XMind, Axure
+- Создание визуальной документации, схем, мокапов: Miro, Figma, Camunda Modeler, draw.io, XMind, Axure
 - Языки разметки: Markdown
 - Общение с коллегами: Slack, Telegram, Zoom, Google Meet, Skype, Discord, Gmail
 - Системы контроля версий: GitHub
