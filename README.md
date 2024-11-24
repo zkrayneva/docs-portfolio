@@ -35,6 +35,6 @@
 - Крипта
 
 ---
-# Как со мной связаться
+### Как со мной связаться
 - [@zhannakrayneva](https://t.me/zhannakrayneva) - Telegram, предпочтительный канал связи
 - zhanna.kraineva@gmail.com
