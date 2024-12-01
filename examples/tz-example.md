@@ -6,7 +6,7 @@
 ## Блок: Окно уведомления
 **Шаблон основной версии**
 
-![Прототип Блока: Окно уведомления](https://github.com/zkrayneva/docs-portfolio/raw/main/examples/pic.png)
+![Прототип Блока: Окно уведомления](https://github.com/zkrayneva/docs-portfolio/raw/main/files/tz_example_pic1.png)
 
 *Рис. Прототип Блока: Окно уведомления*
 
