@@ -3,6 +3,7 @@
 
 - [Распорядок дня](https://docs.google.com/document/d/1KSz0Z8hE72PRfZBQDDF4zu_1xivYEJzb4vO-W-8-gBo/edit?usp=sharing) - часть онбординг-документации. Была опубликована в Confluence.
 - [Верхнеуровневое техническое задание на разработку экрана с уведомлением об оценке приложения](https://github.com/zkrayneva/docs-portfolio/blob/main/examples/tz-example.md) - использовалось для разработки мобильного приложения. Написано с использованием Markdown.
+- [Статья о приложении Screenpresso](https://github.com/zkrayneva/docs-portfolio/blob/main/examples/index.html) - гайд по созданию скриншотов, выделению части снимка прямоугольным блоком и добавлению указателя-стрелки с помощью приложения Screepresso. Оформлен с использованием html-разметки (без стилей).
 
 Вся документация прошла ревью технических писателей или других коллег и написана с учетом специфики заказчика. 
 
@@ -11,8 +12,9 @@
 
 Изучаю Python в качестве хобби, люблю кататься на велосипеде. 
 
+---
 ### Мой инструментарий
-- Написание текстов: Confluence, Notion, Google Docs/Sheets/Slides, Microsoft Word/Excel, Visual Studio Code
+- Написание текстов: Confluence, Notion, Google Docs/Sheets/Slides, Microsoft Word/Excel/PowerPoint, Visual Studio Code
 - Трекинг задач: Jira
 - Создание визуальной документации, схем, мокапов: Miro, Figma, Camunda Modeler, draw.io, XMind, Axure
 - Языки разметки: Markdown
